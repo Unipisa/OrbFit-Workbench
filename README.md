@@ -1,6 +1,6 @@
-# SW_NAME Workbench
+# OrbFit Workbench
 
-### This [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of OrbFit, an astronomy library to compute orbits and ephemerides.
+### This [OrbFit](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of OrbFit, an astronomy library to compute orbits and ephemerides.
 
 -------------------
 
@@ -14,7 +14,7 @@ containing the
 [browsable source](https://github.com/Unipisa/OrbFit-Depository/tree/master/browsable_source).
 
 The resulting 
-[development history](https://github.com/Unipisa/OrbFit/tree/SourceCode/) can be found in the [SW_NAME repository](https://github.com/Unipisa/OrbFit).
+[development history](https://github.com/Unipisa/OrbFit/tree/SourceCode/) can be found in the [OrbFit repository](https://github.com/Unipisa/OrbFit).
 
 Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines. 
 ___________________________
